@@ -1,0 +1,15 @@
+{
+  "appId": "com.yourcompany.daydim",
+  "appName": "Daydim",
+  "webDir": "www",
+  "backgroundColor": "#121019",
+  "server": {
+    "androidScheme": "https"
+  },
+  "ios": {
+    "contentInset": "always"
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
